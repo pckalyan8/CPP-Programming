@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "Programs"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.html": "html",
+			"*.js": "javascript",
+			"*.py": "python",
+			"*.java": "java",
+			"*.txt": "text",
+			"ostream": "cpp"
+		}
+	}
+}
