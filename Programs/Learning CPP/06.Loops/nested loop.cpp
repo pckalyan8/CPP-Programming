@@ -20,7 +20,7 @@ int main()
     cout << "Display matrix" << endl;
     int matrix[3][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
 
-    for (auto & row : matrix)
+    for (auto &row : matrix)
     {
         for (int col : row)
         {
